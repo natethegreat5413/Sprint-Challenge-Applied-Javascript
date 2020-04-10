@@ -30,14 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    'It's a programming interface for HTML. It represents the page so that programs an change the document structure.'
+
 2. What is an event?
+
+    'Events are actions that occur as a result of the user action'
 
 3. What is an event listener?
 
+    'It's a function or program waiting for an event to occur so that it can then execute'
+
 4. Why would we convert a NodeList into an Array?
+
+    'So that you can use array methods to sort through your data easier.'
 
 5. What is a component?
 
+    'A component is a small re-usable set of behaviors used so we don't have to keep writing and rewriting code.  Instead you can just call that function and apply it where ever you see fit'
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
